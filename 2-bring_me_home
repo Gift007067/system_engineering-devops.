@@ -1,0 +1,8 @@
+hlayisonkuna85@gmail.com:/tmp$ pwd
+/tmp
+hlayisonkuna85@gmail.com:/tmp$ echo $HOME
+/home/hlayisonkuna
+hlayisonkuna85@gmail.com:/tmp$ source ./2-bring_me_home
+hlayisonkuna85@gmail.com:~$ pwd
+/home/hlayisonkuna
+hlayisonkuna85@gmail.com:~$ 
